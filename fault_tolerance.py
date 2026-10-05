@@ -5,7 +5,7 @@ documents=[
     "MY NAME IS TAWFIQ BIN WAHED",
     "I LIVE IN SYLHET",
     "I LOVE NBS ",
-    "IS SHE DO THE SAME"
+    "DOES SHE DO THE SAME"
 ]
 
 map_timeout=2.0
